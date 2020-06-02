@@ -13,7 +13,7 @@ This repository holds the Tensorflow Keras implementation of the approach descri
 
 The main strength of this approach is separating training of CNN and RNN to feed RNN with simple feature vectors extracted from frames. 
 It makes the RNN training process faster and gives the ability to exploit many video sequences with a lot of frames in a single batch. 
-Featured extraction is done by simple CNN model from [How Deep Neural Networks Can Improve Emotion Recognition on Video Data](https://arxiv.org/abs/1602.07377). 
+Featured extraction is done by simple CNN architecture proposed in [How Deep Neural Networks Can Improve Emotion Recognition on Video Data](https://arxiv.org/abs/1602.07377). 
 Exploiting of temporal dynamics of video data are done by GRU.
 
 We provide models trained on Aff-Wild2 in [data/checkpoints](data/checkpoints) and tensorboard logs during training this models in [data/logs](data/logs).
