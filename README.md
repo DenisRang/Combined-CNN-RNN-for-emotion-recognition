@@ -38,7 +38,7 @@ To predict emotions using our pretrained models, change paths in `config.py` wit
 
 ### Other
 There are more scripts for different purposes like an additional analysis. 
-Every script is provided with describing comments on top.
+Every script is provided with describing comments on the top.
 ## Citation   
 ```
 TODO
