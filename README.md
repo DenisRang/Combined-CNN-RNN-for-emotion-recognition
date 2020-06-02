@@ -12,7 +12,7 @@
 This repository holds the Tensorflow Keras implementation of the approach described in our report *TODO*, which is used for our entry to ABAW Challenge 2020 (VA track).
 
 The main strength of this approach is separating training of CNN and RNN to feed RNN with simple feature vectors extracted from frames. 
-It makes the RNN training process faster and gives the ability to exploit video sequences with many frames in a single batch. 
+It makes the RNN training process faster and gives the ability to exploit many video sequences with a lot of frames in a single batch. 
 Featured extraction is done by simple CNN model from [How Deep Neural Networks Can Improve Emotion Recognition on Video Data](https://arxiv.org/abs/1602.07377). 
 Exploiting of temporal dynamics of video data are done by GRU.
 
@@ -37,7 +37,7 @@ To train models, change paths in `config.py` with your ones. Then:
 To predict emotions using our pretrained models, change paths in `config.py` with your ones and then run `predict.py`
 
 ### Other
-There are more scripts for different purposes like an additional analysis. 
+There are more scripts for different purposes like additional analysis. 
 Every script is provided with describing comments on the top.
 ## Citation   
 ```
