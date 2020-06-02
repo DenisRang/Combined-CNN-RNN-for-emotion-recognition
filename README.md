@@ -2,7 +2,7 @@
 ---   
 <div align="center">    
  
-# Combined CNN and RNN 
+# Combined CNN and RNN for Emotion Recognition Challenge
 
 [![Conference Workshop](http://img.shields.io/badge/FG-2020-4b44ce.svg)](https://ibug.doc.ic.ac.uk/resources/affect-recognition-wild-unimulti-modal-analysis-va/) 
 [![Challenge](http://img.shields.io/badge/ABAW-2020-4b44ce.svg)](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/)   

@@ -38,12 +38,12 @@ def train_model(research_model, nb_epoch, generators, callbacks=[]):
 
 
 def main():
-    #     model_name = 'simple_rnn_tanh_3_layers_ccc_loss'
-    #     model_name = 'gru_ccc_loss'
-    #     model_name = 'gru'
-    #     model_name = 'gru_1_layer_ccc_loss'
-    #     model_name = 'simple_rnn'
-    model_name = 'simple_rnn_ccc_loss'
+    # model_name = 'simple_rnn_tanh_3_layers_ccc_loss'
+    model_name = 'gru_ccc_loss'
+    # model_name = 'gru'
+    # model_name = 'gru_1_layer_ccc_loss'
+    # model_name = 'simple_rnn'
+    # model_name = 'simple_rnn_ccc_loss'
 
     if not os.path.exists(MODEL_CHECKPOINTS_DIR):
         os.makedirs(MODEL_CHECKPOINTS_DIR)
