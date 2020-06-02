@@ -1,0 +1,11 @@
+matplotlib
+jupyter
+pandas
+numpy
+tensorflow
+opencv-python
+tqdm
+
+# git+https://github.com/titu1994/keras-squeeze-excite-network
+# git+https://github.com/rcmalli/keras-vggface.git
+
