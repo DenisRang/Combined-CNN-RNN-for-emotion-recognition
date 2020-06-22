@@ -10,7 +10,7 @@
 </div>
  
 ## Description
-This repository holds the Tensorflow Keras implementation of the approach described in our report *TODO*, which is used for our entry to ABAW Challenge 2020 (VA track).
+This repository holds the Tensorflow Keras implementation of the approach described in our report [Emotion Recognition on large video dataset based on Convolutional Feature Extractor and Recurrent Neural Network](https://arxiv.org/abs/2006.11168), which is used for our entry to ABAW Challenge 2020 (VA track).
 
 The main strength of this approach is separating training of CNN and RNN to feed RNN with simple feature vectors extracted from frames. 
 It makes the RNN training process faster and gives the ability to exploit many video sequences with a lot of frames in a single batch. 
