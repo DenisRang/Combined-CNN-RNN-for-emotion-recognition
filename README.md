@@ -4,6 +4,7 @@
  
 # Combined CNN and RNN for Emotion Recognition Challenge
 
+[![Paper](http://img.shields.io/badge/paper-arxiv.2006.11168-B31B1B.svg)](https://arxiv.org/abs/2006.11168)
 [![Conference Workshop](http://img.shields.io/badge/FG-2020-4b44ce.svg)](https://ibug.doc.ic.ac.uk/resources/affect-recognition-wild-unimulti-modal-analysis-va/) 
 [![Challenge](http://img.shields.io/badge/ABAW-2020-4b44ce.svg)](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/)   
 </div>
@@ -41,5 +42,12 @@ There are more scripts for different purposes like an additional analysis.
 Every script is provided with describing comments on the top.
 ## Citation   
 ```
-TODO
+@misc{rangulov2020emotion,
+    title={Emotion Recognition on large video dataset based on Convolutional Feature Extractor and Recurrent Neural Network},
+    author={Denis Rangulov and Muhammad Fahim},
+    year={2020},
+    eprint={2006.11168},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 ```
