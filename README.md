@@ -5,7 +5,6 @@
 # Combined CNN and RNN for Emotion Recognition Challenge
 
 [![Paper](http://img.shields.io/badge/paper-arxiv.2006.11168-B31B1B.svg)](https://arxiv.org/abs/2006.11168)
-[![Conference Workshop](http://img.shields.io/badge/FG-2020-4b44ce.svg)](https://ibug.doc.ic.ac.uk/resources/affect-recognition-wild-unimulti-modal-analysis-va/) 
 [![Challenge](http://img.shields.io/badge/ABAW-2020-4b44ce.svg)](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/)   
 </div>
  
