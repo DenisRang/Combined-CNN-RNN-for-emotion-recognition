@@ -2,7 +2,7 @@
 ---   
 <div align="center">    
  
-# Combined CNN and RNN for Emotion Recognition Challenge
+# Emotion Recognition on large video dataset based on Convolutional Feature Extractor(CNN) and Recurrent Neural Network(RNN)
 
 [![Paper](http://img.shields.io/badge/paper-arxiv.2006.11168-B31B1B.svg)](https://arxiv.org/abs/2006.11168)
 [![Challenge](http://img.shields.io/badge/ABAW-2020-4b44ce.svg)](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/)
