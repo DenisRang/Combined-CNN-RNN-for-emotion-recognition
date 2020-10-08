@@ -43,12 +43,11 @@ There are more scripts for different purposes like additional analysis.
 Every script is provided with describing comments on the top.
 ## Citation   
 ```
-@misc{rangulov2020emotion,
-    title={Emotion Recognition on large video dataset based on Convolutional Feature Extractor and Recurrent Neural Network},
-    author={Denis Rangulov and Muhammad Fahim},
-    year={2020},
-    eprint={2006.11168},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{denis2020,
+Title - {Emotion Recognition on large video dataset based on Convolutional Feature Extractor and Recurrent Neural Network},
+Author {Denis Rangulov and Muhammad Fahim},
+booktitle={IEEE International Conference on Image Processing, Applications and Systems},
+ year={2020},
+organization={IEEE}
 }
 ```
